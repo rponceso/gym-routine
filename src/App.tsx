@@ -4,7 +4,7 @@ function App() {
   console.log("Hola")
 
   return (
-    <h1>Hola Mundo</h1>
+    <h1>Hola Bienvenido a mi aplicacion de rutinas de gimnasio</h1>
   )
 }
 
