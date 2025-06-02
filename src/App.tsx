@@ -1,10 +1,10 @@
-import Login from "./pages/Login"
+import Login from './pages/Login'
 
 function App() {
   console.log("Hola")
 
   return (
-    <Login />
+    <Login/>
   )
 }
 
